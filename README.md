@@ -15,4 +15,4 @@
 - LinkedIn: https://www.linkedin.com/in/jatin-gori-0a223b354/
 - Email: jatingori72@gmail.com
 
-- <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
