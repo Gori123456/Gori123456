@@ -16,3 +16,5 @@
 - Email: jatingori72@gmail.com
 
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+![Snake animation](https://github.com/YOUR_USERNAME/Gori123456/blob/output/github-contribution-grid-snake.svg)
